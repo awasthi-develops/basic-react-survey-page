@@ -1,0 +1,53 @@
+[
+  {
+    "questions": [
+      {
+        "type": "radiogroup",
+        "name": "civilwar",
+        "title": "What is 33*37?",
+        "choices": [
+          "1221",
+          "1121",
+          "2441",
+          "4141"
+        ],
+        "correctAnswer": "1221"
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "type": "radiogroup",
+        "name": "libertyordeath",
+        "title": "What is the GCD of 24,36,72?'",
+        "choicesOrder": "random",
+        "choices": [
+          "12",
+          "8",
+          "72",
+          "24"
+        ],
+        "correctAnswer": "12"
+      }
+    ]
+  },
+  {
+    "maxTimeToFinish": 15,
+    "questions": [
+      {
+        "type": "radiogroup",
+        "name": "magnacarta",
+        "title": "What comes next in this series 1,2,5,10,17,26,_?",
+        "choicesOrder": "random",
+        "choices": [
+          "52",
+          "29",
+          "37",
+          "31"
+        ],
+        "correctAnswer": "37"
+      }
+    ]
+  }
+]
